@@ -1,7 +1,8 @@
 # Vitalii Ponomarov
-_______________________
------------------------
-### Contacts:
+___________________
+-------------------
+
+### Contacts
 
 * Phone: +380 (66) 500-30-90
 * E-mail: pnmrv.vtl@gmail.com
@@ -10,7 +11,7 @@ _______________________
 * [LinkedIn](https://www.linkedin.com/in/vitalii-ponomarov-289039237/)
 * [CodeWars](https://www.codewars.com/users/pnmrvvtl/)
 ----------------
-### About me:
+### About me
 Purposeful, responsible, lead a healthy lifestyle, quickly accept new information, able to work both as a team and independently.
 _______________
 ### Skills
@@ -44,8 +45,6 @@ _______________
 function multiply(a, b){
     return a * b;
 }
-
-
 ```
 _______________
 ### My Projects
