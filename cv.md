@@ -42,8 +42,17 @@ _______________
 ### Code example
 
 ```javascript
-function multiply(a, b){
-    return a * b;
+function myLanguages(results) {
+    let resArr = [];
+    for (let elem in results) {
+        resArr.push([elem, results[elem]]);
+    }
+
+    resArr.sort(function(a, b) {
+        return b[1] - a[1];
+    });
+
+    return resArr.filter(elem => elem[1] >= 60).map(elem => elem[0]);
 }
 ```
 _______________
